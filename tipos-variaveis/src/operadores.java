@@ -30,18 +30,6 @@ public class operadores {
 
         //------------------------------------------------------------------------------------
 
-        // operadores lógicos
-        int numeroUm = 1;
-        int numeroDois = 2;
-
-        boolean simNao = numero == numero2;
         
-        System.out.println("numeroUm é igual a numeroDois ?" + simNao);
-
-
-
-
-
-
     }
 }
