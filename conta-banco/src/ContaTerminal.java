@@ -22,10 +22,6 @@ public class ContaTerminal {
                             ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque");
 
 
-
-
-
-
     }
 
 }
